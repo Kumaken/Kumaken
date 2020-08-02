@@ -15,7 +15,7 @@
 
 - 💬 Hit me with those Q's bruh and I'll drop you the A's on **React, Javascript, C++, C#, Python**
 
-- 📫 Slide into the DM's like snake oil here bruh **13517068@std.stei.itb.ac.id** or  **kumaken132@gmail.com**
+- 📫 Slide into my DMs like snake oil here bruh **13517068@std.stei.itb.ac.id** or  **kumaken132@gmail.com**
 
 - ⚡ Fun fact **Taking JLPT N3 this year** (who cares, right?)
 
