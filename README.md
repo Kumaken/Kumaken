@@ -11,7 +11,7 @@
 
 - 🤔 Dude might wanna help me on **FINDING ME WORK** (lol)
 
-- 👨‍💻 Droppin' these projects like hot potatoes on Github (here) or [https://gitlab.informatika.org/Stanley132](https://gitlab.informatika.org/Stanley132)
+- 👨‍💻 Droppin' fresh codes like hot potatoes on Github (here) or [https://gitlab.informatika.org/Stanley132](https://gitlab.informatika.org/Stanley132)
 
 - 💬 Hit me with those Q's bruh and I'll drop you the A's on **React, Javascript, C++, C#, Python**
 
