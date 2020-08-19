@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumaken" alt="kumaken" /> </p>
 
-- 🔭 Bruh, just chillin' workin' on [Diggetty Clicker](https://github.com/Kumaken/DiggettyClicker)
+- 🔭 Bruh, just chillin' workin' on [Diggetty Clicker](https://github.com/Kumaken/diggetty-clicker)
 
 - 🌱 Getting those juicy skillz like **Phaser 3, React, Ionic, Typescript, Scrapy**
 
