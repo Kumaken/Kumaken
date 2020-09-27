@@ -1,4 +1,4 @@
-<h1 align="center">Hey u👋</h1>
+<h1 align="center">Hey u, Stanley here👋</h1>
 <h3 align="center">Henlo</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumaken" alt="kumaken" /> </p>
