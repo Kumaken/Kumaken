@@ -26,6 +26,4 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumaken&amp;layout=compact&amp;hide=jupyter_notebook" alt="Top Languages"></p>
 
 <h1>Wakatime</h1>
-```md
-[![Stanley's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kumaken)](https://github.com/anuraghazra/github-readme-stats)
-```
+<p><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kumaken" alt="Wakatime"></p>
