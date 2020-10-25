@@ -25,3 +25,5 @@
 <h1>Top Languages</h1>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumaken&amp;layout=compact&amp;hide=jupyter_notebook" alt="Top Languages"></p>
 
+<h1>Wakatime</h1>
+[![Stanley's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kumaken)](https://github.com/anuraghazra/github-readme-stats)
