@@ -23,7 +23,7 @@
 <p><img src="https://github-readme-stats.vercel.app/api?username=Kumaken&amp;show_icons=true&amp;count_private=true&amp;theme=cobalt" alt="GitHub Stats"></p>
 
 <h1>Top Languages</h1>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumaken&amp;layout=compact&amp;hide=jupyter%20notebook" alt="Top Languages"></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumaken&amp;layout=compact&amp;hide=jupyter%20notebook&amp;langs_count=8" alt="Top Languages"></p>
 
 <h1>Wakatime</h1>
 <p><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kumaken" alt="Wakatime"></p>
