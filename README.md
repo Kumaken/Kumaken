@@ -23,5 +23,5 @@
 <p><img src="https://github-readme-stats.vercel.app/api?username=Kumaken&amp;show_icons=true&amp;count_private=true&amp;theme=cobalt" alt="GitHub Stats"></p>
 
 <h1>Top Languages</h1>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumaken&amp;layout=compact&amp;hide=jupyternotebook" alt="Top Languages"></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumaken&amp;layout=compact&amp;hide=jupyter_notebook" alt="Top Languages"></p>
 
