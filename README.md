@@ -5,7 +5,7 @@
 
 - 🔭 Currently working on: [Helix Jump](https://github.com/Kumaken/play-canvas-helix-jump)
 
-- 🌱 Learning: **Phaser 3**
+- 🌱 Learning: **PlayCanvas**
 
 - 👯 Up from some projects? **yes**
 
