@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumaken" alt="kumaken" /> </p>
 
-- 🔭 Currently working on: [Diggetty Clicker](https://github.com/Kumaken/diggetty-clicker)
+- 🔭 Currently working on: [Helix Jump](https://github.com/Kumaken/play-canvas-helix-jump)
 
 - 🌱 Learning: **Phaser 3**
 
