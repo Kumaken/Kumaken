@@ -5,11 +5,9 @@
 
 - 🔭 Currently working on: [Helix Jump](https://github.com/Kumaken/play-canvas-helix-jump)
 
-- 🌱 Learning: **PlayCanvas**
-
 - 👯 Up from some projects? **yes**
 
-- 🤔 Looking for a job? **no**
+- 🤔 Looking for a job? **yes**
 
 - 👨‍💻 Other Repositories: [https://gitlab.informatika.org/Stanley132](https://gitlab.informatika.org/Stanley132)
 
