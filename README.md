@@ -7,7 +7,7 @@
 
 - 👯 Up from some projects? **yes**
 
-- 🤔 Looking for a job? **yes**
+- 🤔 Looking for a job? **no**
 
 - 👨‍💻 Other Repositories: [https://gitlab.informatika.org/Stanley132](https://gitlab.informatika.org/Stanley132)
 
