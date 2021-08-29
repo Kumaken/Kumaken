@@ -13,6 +13,8 @@
 
 - 📫 Contact: **13517068@std.stei.itb.ac.id** or  **kumaken132@gmail.com**
 
+- 👄 Languages: **English, Japanese, Indonesian**
+
 <h1>GitHub Stats</h1>
 <p><img src="https://github-readme-stats.vercel.app/api?username=Kumaken&amp;show_icons=true&amp;count_private=true&amp;theme=cobalt" alt="GitHub Stats"></p>
 
