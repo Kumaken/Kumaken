@@ -7,7 +7,7 @@
 
 - 👯 Up from some projects? **yes — hit me up anywhen, anywhere 😏**
 
-- 🤔 Looking for a job? **Always open for offers. Feel free to leave some messages on my LinkedIn!** 
+- 🤔 Looking for a job? **Always open for offers. Feel free to leave some messages on my LinkedIn! https://www.linkedin.com/in/abelstanley/** 
 
 - 👨‍💻 Other Repositories: [https://gitlab.informatika.org/Stanley132](https://gitlab.informatika.org/Stanley132)
 
