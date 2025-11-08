@@ -13,8 +13,6 @@
 
 - 📫 Contact: **13517068@std.stei.itb.ac.id** or  **kumaken132@gmail.com**
 
-- Leetcode: https://leetcode.com/Kumaken/
-
 - 👄 Languages: **English (C2), Japanese (N2), Indonesian (Native)**
 
 <h1>GitHub Stats</h1>
