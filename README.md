@@ -1,11 +1,11 @@
-<h1 align="center">Hey u, Stanley here👋</h1>
-<h3 align="center">Henlo</h3>
+<h1 align="center">Hello visitors, Stanley here👋</h1>
+<h3 align="center">Welcome</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumaken" alt="kumaken" /> </p>
 
-- 🔭 Currently working on: [Distributed Indonesian Online News Website Scraper](https://gitlab.informatika.org/p3mi-kse-2020/p3mi2020-integrasidata) (Apologies, but it is private at the moment until development process is finished.)
+- 🔭 Previously was working on: [Distributed Indonesian Online News Website Scraper](https://gitlab.informatika.org/p3mi-kse-2020/p3mi2020-integrasidata) (Apologies, but it is private at the moment until development process is finished.)
 
-- 👯 Up from some projects? **yes — hit me up anywhen, anywhere 😏**
+- 👯 Up for some projects? **yes — hit me up anywhen, anywhere 😏**
 
 - 🤔 Looking for a job? **Always open for offers. Feel free to leave some messages on my LinkedIn! https://www.linkedin.com/in/abelstanley/** 
 
